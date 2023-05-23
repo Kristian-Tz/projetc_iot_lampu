@@ -40,7 +40,7 @@ Install my-project with npm
 2. lalu buat rooms dan perangkat untuk dihubungkat ke iot
 3. lalu buka arduino dan buka file code nya telah tersedia
 4. kemudian ubah ssid dan password wifi yang ada
-5. dan ubah api key yang telah dibuat di sinric pro tadi
+5. dan salin api key yang telah dibuat di sinric pro tadi
 6. lalu ekspor file nya
 
 ## Authors
