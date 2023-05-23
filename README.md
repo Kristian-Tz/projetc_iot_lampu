@@ -35,7 +35,7 @@ Install my-project with npm
   cd projetc_iot_lampu
 ```
 
-##instalansi selanjutnya
+## instalansi selanjutnya
 1. download dan login ke sinric pro
 2. lalu buat rooms dan perangkat untuk dihubungkat ke iot
 3. lalu buka arduino dan buka file code nya telah tersedia
