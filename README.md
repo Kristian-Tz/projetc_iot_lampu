@@ -1,6 +1,6 @@
 ## instalasi project oit lampu 
 
-##bahan bahan yang perlu disediakan
+## bahan bahan yang perlu disediakan
 1. nodeMCU
 2. module relay
 3. kabel jumper
