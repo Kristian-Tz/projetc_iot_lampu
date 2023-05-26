@@ -1,4 +1,4 @@
-## instalasi project oit lampu 
+## instalasi project IOT lampu 
 
 ## bahan bahan yang perlu disediakan
 1. nodeMCU
