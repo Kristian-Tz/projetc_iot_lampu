@@ -1,4 +1,4 @@
-## instalasi project IOT lampu 
+## instalasi project IOT lampu Use Google sinric
 
 ## bahan bahan yang perlu disediakan
 1. nodeMCU
